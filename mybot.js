@@ -6,7 +6,7 @@ var pool  = mysql.createPool({
   connectionLimit : 10,
   host            : 'www.edkarwacki.com',
   user            : 'bot',
-  password        : 'Q7LvmGBwLUBwBFO4',
+  password        : 'xxxxxxxxxxxx',
   database        : 'discord'
 });
 
