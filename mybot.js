@@ -53,4 +53,4 @@ bot.on('ready',() => {
 	console.log('I am ready!');
 });
 
-bot.login("MjU4NDQ1MjAxOTY4ODU3MDg4.CzJ5Mw.WUDhV0p9H6qyiCD5KxT1gbTQ9iw");
+bot.login("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
