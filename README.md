@@ -5,5 +5,7 @@ Most of these are intended just to annoy my friends (which succeeded) :)
 Description of each bot:
 
 1) Smilebot.js: monitors text channels in Discord for curse words and chews out user if it detects one
-2) RiffRaff.js: plays a random song from Riff Raff in the voice channel
+
+2) RiffRaffRadio.js: plays a random song from Riff Raff in the voice channel
+
 3) Meiling.js: plays a random proverb from Mei Ling in the voice channel
