@@ -1,5 +1,5 @@
 # Discord.JS-bots
-bots made for fun used on a personasl discord server using discord.js.  These were just fun little projects to learn how to make bots.  
+Bots made for fun used on a personal discord server using discord.js.  These were just fun little projects to learn how to make bots.  
 Most of these are intended just to annoy my friends (which succeeded) :)
 
 Description of each bot:
